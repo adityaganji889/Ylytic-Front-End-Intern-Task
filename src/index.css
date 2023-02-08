@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.close {
+  float: right;
+  font-size: 21px;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+  margin-Top: -3rem !important;
+  text-shadow: 0 1px 0 #fff;
+  filter: alpha(opacity=20);
+  opacity: .2;
+}
+
+.margin-top-5{
+  margin-top: 5rem;
+}
+
+.margin-bottom-5-fs-36{
+  margin-Bottom: 2rem; 
+  font-size: 36px;
+}
